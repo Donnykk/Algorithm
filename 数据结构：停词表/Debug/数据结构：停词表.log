@@ -1,0 +1,4 @@
+﻿  停词表.cpp
+F:\Environment\Visual Studio 2019\数据结构：停词表\停词表.cpp(19,21): warning C4018: “<”: 有符号/无符号不匹配
+F:\Environment\Visual Studio 2019\数据结构：停词表\停词表.cpp(66,21): warning C4018: “<”: 有符号/无符号不匹配
+  数据结构：停词表.vcxproj -> F:\Environment\Visual Studio 2019\数据结构：停词表\Debug\数据结构：停词表.exe
