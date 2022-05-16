@@ -1,0 +1,8 @@
+﻿  main.cpp
+F:\Environment\Visual Studio\动态规划—字符串扩展\main.cpp(8,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\Environment\Visual Studio\动态规划—字符串扩展\main.cpp(9,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\Environment\Visual Studio\动态规划—字符串扩展\main.cpp(23,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\Environment\Visual Studio\动态规划—字符串扩展\main.cpp(24,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\Environment\Visual Studio\动态规划—字符串扩展\main.cpp(51,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+F:\Environment\Visual Studio\动态规划—字符串扩展\main.cpp(52,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  动态规划—字符串扩展.vcxproj -> F:\Environment\Visual Studio\动态规划—字符串扩展\x64\Debug\动态规划—字符串扩展.exe
